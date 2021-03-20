@@ -1,5 +1,5 @@
 # SupHealth
-<img src="https://i.imgur.com/PmP9QS4.png" alt="Logo" width="200px">
+<img src="https://i.imgur.com/vb1gnOa.png" alt="Logo" width="200px">
 Beautiful IOS App for Covid-19 stats & tracking.
 
 ### Lots to love:
